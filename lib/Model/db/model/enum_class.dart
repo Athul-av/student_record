@@ -1,0 +1,4 @@
+enum Actiontype {
+  addScreen,
+  editScreen,
+}
